@@ -5,9 +5,6 @@
 
 <img width="765" height="371" alt="scrn" src="https://github.com/user-attachments/assets/132b4e5c-ee87-4053-b665-a75abd4e5635" />
 
-
-<img width="751" height="374" alt="Screenshot 2025-11-25 020234" src="https://github.com/user-attachments/assets/d4859fb6-86e0-446a-8b84-fffbe196a710" />
-
 ## 🔑 Key Features
 * **Live Risk Monitoring:** Real-time dashboard calculating customer risk profiles based on liquidity and loan history.
 * **AI Invoice Auditor:** Integrated OCR (Optical Character Recognition) using `pdfplumber` to extract transaction details from PDF invoices.
@@ -25,3 +22,11 @@
 1. Clone the repository:
    ```bash
    git clone [https://github.com/ZakoSyntaxNest/RiskFlow-AI-Financial-Dashboard.git](https://github.com/ZakoSyntaxNest/RiskFlow-AI-Financial-Dashboard.git)
+
+   ##Install dependencies:
+   pip install -r requirements.txt
+
+   ##Run the app:
+   streamlit run app.py
+
+  ## 👨‍💻 Author: Student of AI
