@@ -1,6 +1,9 @@
 # 🏦 RiskFlow AI: Intelligent Financial Dashboard
 
 **RiskFlow AI** is a full-stack financial auditing system designed to automate risk detection and unstructured data extraction. It bridges the gap between raw CSV banking data and actionable insights using Python and AI.
+## Live demo
+
+<img width="765" height="371" alt="scrn" src="https://github.com/user-attachments/assets/132b4e5c-ee87-4053-b665-a75abd4e5635" />
 
 ## 🔑 Key Features
 * **Live Risk Monitoring:** Real-time dashboard calculating customer risk profiles based on liquidity and loan history.
